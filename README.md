@@ -1,6 +1,7 @@
 # tfProject
 tensorflow Project
-official_code 是《TensorFlow实战》（电子工业出版社）的官方代码
+
+0. official_code 是《TensorFlow实战》（电子工业出版社）的官方代码
 
 1. ch8_drl是根据书本实现的深度强化学习项目，做了比较详细的笔记.
 
